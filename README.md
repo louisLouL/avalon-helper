@@ -21,6 +21,9 @@ cd avalon-helper
 npm install
 npm start
 ```
-and go to http://localhost:3000 to check it out.
+and go to http://localhost:3000 to check it out. 
+
+** If you are viewing it on Chrome(desktop)**, press Ctrl + Shift + I and then Ctrl + Shift + M to
+switch the view from standard web view to mobile device view for better experience. 
 
 ## Technology details
